@@ -1,0 +1,57 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/qiansong/Desktop/Code/Lagou/CopyCat/03-03-study-materials/code/3-3-4-1-nuxtjs综合案例/realworld-nuxtjs/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/qiansong/Desktop/Code/Lagou/CopyCat/03-03-study-materials/code/3-3-4-1-nuxtjs综合案例/realworld-nuxtjs/pages/home",
+        "_name": "_32c4a836"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/qiansong/Desktop/Code/Lagou/CopyCat/03-03-study-materials/code/3-3-4-1-nuxtjs综合案例/realworld-nuxtjs/pages/login",
+        "_name": "_255fcdba"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/qiansong/Desktop/Code/Lagou/CopyCat/03-03-study-materials/code/3-3-4-1-nuxtjs综合案例/realworld-nuxtjs/pages/login",
+        "_name": "_255fcdba"
+      },
+      {
+        "path": "/profile/:username/:tab",
+        "name": "profile",
+        "component": "/Users/qiansong/Desktop/Code/Lagou/CopyCat/03-03-study-materials/code/3-3-4-1-nuxtjs综合案例/realworld-nuxtjs/pages/profile",
+        "_name": "_9a55a63a"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/qiansong/Desktop/Code/Lagou/CopyCat/03-03-study-materials/code/3-3-4-1-nuxtjs综合案例/realworld-nuxtjs/pages/settings",
+        "_name": "_39108029"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/qiansong/Desktop/Code/Lagou/CopyCat/03-03-study-materials/code/3-3-4-1-nuxtjs综合案例/realworld-nuxtjs/pages/editor",
+        "_name": "_9fb1a21a"
+      },
+      {
+        "path": "/update/:slug",
+        "name": "update",
+        "component": "/Users/qiansong/Desktop/Code/Lagou/CopyCat/03-03-study-materials/code/3-3-4-1-nuxtjs综合案例/realworld-nuxtjs/pages/editor",
+        "_name": "_9fb1a21a"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/qiansong/Desktop/Code/Lagou/CopyCat/03-03-study-materials/code/3-3-4-1-nuxtjs综合案例/realworld-nuxtjs/pages/article",
+        "_name": "_ccc11fa0"
+      }
+    ],
+    "_name": "_8813eea0"
+  }
+]
